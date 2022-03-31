@@ -10,20 +10,21 @@
 -  GitHub: [@matovu farid](https://github.com/matovu-farid)
 - Twitter: [@matovu100](https://twitter.com/matovu100)
 - LinkedIn: [matovu-farid](https://www.linkedin.com/in/matovu-farid-48b80257)
-- 
+-
  **Debas Gebreslasie**
 - [GitHub](https://github.com/Debas-31)
 - [Twitter](https://twitter.com/DEBSH76956492)
 - [LinkedIn](https://www.linkedin.com/in/debas-gebrengus)
-  
+
  **Nuri Lacka**
 - GitHub: [@Nuri1977](https://github.com/Nuri1977)
 - Twitter: [@Lackanuri](https://twitter.com/LackaNuri)
 - LinkedIn: [@nurilacka](https://www.linkedin.com/in/nuri-lacka-7141b01ba/)
-- 
-##  Contributing
+-
+🤝 Contributing
 Contributions, issues, and feature requests are welcome!
+
 Feel free to check the issues page.
 
-## Show your support
-Give a * if you like this project!
+Show your support
+Give a ⭐️ if you like this project!

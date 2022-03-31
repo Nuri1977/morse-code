@@ -1,7 +1,4 @@
 MORSE = {
-  '   ' => ' ',
-
-  ' ' => '',
   '.-' => 'A',
   '-...' => 'B',
   '-.-.' => 'C',
@@ -40,14 +37,26 @@ MORSE = {
   '-----' => '0'
 }.freeze
 
+def decode_char(char)
+  (MORSE[char])
+end
+
+p decode_char('.-')
+
+def decode_word(word)
+  word_arr = []
+  word.split.each do |char|
+    word_arr.push(decode_char(char))
+  end
+  word_arr.join
+end
+
+p decode_word('-- -.--')
+
 def decode(input)
   arr = []
   input.split('   ').each do |word|
-    word_arr = []
-    word.split.each do |char|
-      word_arr.push(MORSE[char])
-    end
-    arr.push(word_arr.join)
+    arr.push(decode_word(word))
   end
   arr.join(' ')
 end
